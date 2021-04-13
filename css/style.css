@@ -1,0 +1,73 @@
+
+body{
+    background-image: url(https://alqudscollege-my.sharepoint.com/personal/r_abualigah_ltuc_com/Documents/Microsoft%20Teams%20Chat%20Files/201d19%20exam%20demo/bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.466);
+    font-family: Indie Flower;
+}
+main{
+    width: 70%;
+    margin: 100px;
+}
+
+#left{
+    float: left;
+    margin-left: 300px;
+}
+
+#right{
+    float: left;
+    margin-left: 600px;
+    margin-top: -250px;
+    background-color: rgba(0, 0, 0, 0.562);
+    padding: 20px;
+}
+
+#myForm{
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.562);
+    color: white;
+    font-size: 12px;
+}
+#myForm h3{
+    text-align: center;
+    padding: 6px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+#submit{
+    width: 100%;
+}
+#myTable{
+    
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.562); */
+    border: white solid 1px;
+
+}
+
+th{
+    padding: 10px;
+    border: white solid 1px; ;
+}
+td { 
+    padding: 10px;
+
+    border: white solid 1px; ;
+
+}
+
+footer{
+    color: white;
+    margin-top: 600px;
+    text-align: center;
+}
